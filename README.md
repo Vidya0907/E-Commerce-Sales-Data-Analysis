@@ -90,7 +90,8 @@ RETURN ConversionScore
 <br/>
 
 <div align="center">
-  <img width="754" height="428" alt="image" src="https://github.com/user-attachments/assets/86804b75-55c4-457d-be35-b1ba3e9d24a7" />
+<img width="763" height="430" alt="image" src="https://github.com/user-attachments/assets/23a8341f-faac-4c94-b8d2-946bd09f168d" />
+
 
 </div>
 <br/>
